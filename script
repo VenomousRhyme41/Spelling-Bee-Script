@@ -43,13 +43,13 @@ local function highlightWord()
 end
 
 local CopyButton = Instance.new("TextButton", Frame)
-CopyButton.Position = UDim2.new(0.1, 0, 0, 140)
+CopyButton.Position = UDim2.new(0.1, 0, 0, 130)
 CopyButton.Size = UDim2.new(0.8, 0, 0, 40)
 CopyButton.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
-CopyButton.Text = "Copy Word"
+CopyButton.Text = "Copy Word (F3)"
 
 local AutoTypeToggle = Instance.new("TextButton", Frame)
-AutoTypeToggle.Position = UDim2.new(0.1, 0, 0, 190)
+AutoTypeToggle.Position = UDim2.new(0.1, 0, 0, 180)
 AutoTypeToggle.Size = UDim2.new(0.8, 0, 0, 40)
 AutoTypeToggle.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 AutoTypeToggle.Text = "Enable Auto Type"
