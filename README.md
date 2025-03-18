@@ -7,6 +7,18 @@ Join our community and experience seamless features that keep you **ahead of the
 
 ----
 
+## 🎉 Features
+- **Autofarm**: Automatically perform tasks to earn points effortlessly.
+- **Word Copying**: Easily copy words with the press of a button.
+- **Speed Typing**: Increase your typing speed to dominate the competition.
+- **User-Friendly GUI**: Intuitive interface for seamless operation.
+- **Community Support**: Join our Discord for updates and assistance!
+
+Join our community and experience seamless features that keep you **ahead of the competition**. Don't miss out on the ultimate tool to elevate your gaming experience—**now’s the time to dominate the leaderboard**!
+
+
+----
+
 
 
 ## 🔗 Usage
