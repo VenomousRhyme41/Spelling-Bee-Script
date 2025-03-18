@@ -35,7 +35,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/VenomousRhyme41/Spell
 ## 🌐 Join the Community!
 
 For updates, support, and to connect with fellow users, join our Discord:
-Join the Discord
+Join the Discord https://dsc.gg/morsteam
 
 ----
 
