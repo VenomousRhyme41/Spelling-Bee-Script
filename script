@@ -1,3 +1,7 @@
+local b = Instance.new("BindableFunction")
+function b.OnInvoke(response) if response == "Copy Link" then if setclipboard then setclipboard("https://dsc.gg/morsteam") end end end
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Mors Team", Text = "Join my discord server", Duration = 5, Callback = b, Button1 = "Copy Link"})
+
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
